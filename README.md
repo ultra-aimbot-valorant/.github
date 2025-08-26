@@ -1,4 +1,4 @@
-# Ultra Valorant Aimbot
+# Ultra Aimbot Valorant
 This enhancement directly targets your opponents, streamlining the process of obtaining more efficient headshots.
 
 
